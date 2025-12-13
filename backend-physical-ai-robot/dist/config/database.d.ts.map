@@ -1,0 +1,1 @@
+{"version":3,"file":"database.d.ts","sourceRoot":"","sources":["../../src/config/database.ts"],"names":[],"mappings":"AACA,MAAM,WAAW,UAAU;IACzB,KAAK,EAAE,GAAG,EAAE,CAAC;IACb,KAAK,EAAE,GAAG,EAAE,CAAC;IACb,QAAQ,EAAE,GAAG,EAAE,CAAC;IAChB,OAAO,EAAE,GAAG,EAAE,CAAC;CAChB;AAGD,eAAO,MAAM,SAAS,EAAE,UAKvB,CAAC;AAGF,eAAO,MAAM,cAAc,QAAO,IAKjC,CAAC"}
