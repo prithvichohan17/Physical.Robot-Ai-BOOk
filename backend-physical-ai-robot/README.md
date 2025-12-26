@@ -29,7 +29,7 @@ This is the backend API for the Physical AI Robot book project. It provides a RE
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/prithvichohan17/Physical.Robot-Ai-BOOk.git
 ```
 
 2. Navigate to the backend directory:
@@ -162,7 +162,7 @@ npm start
 
 ## Contributing
 
-1. Fork the repository
+1. Fork the repository at https://github.com/prithvichohan17/Physical.Robot-Ai-BOOk.git
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
